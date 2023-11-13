@@ -1,0 +1,1 @@
+{"name":"Local: 8Puzzle","url":"f:\\cp\\academic\\8Puzzle.cpp","tests":[{"id":1699899260808,"input":"1 2 3\n0 4 6\n7 5 8","output":""},{"id":1699904316089,"input":"0 2 3\n1 4 5\n7 8 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\cp\\academic\\8Puzzle.cpp","group":"local","local":true}
